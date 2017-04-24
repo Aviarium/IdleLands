@@ -2,23 +2,36 @@
 
 ## Table of Contents
 
-1. [Chimera Dragon](#chimera-dragon)
-2. [Corgi](#corgi)
-3. [Digipet](#digipet)
-4. [Dolphin](#dolphin)
-5. [Ghostly Shield](#ghostly-shield)
-6. [Ghostly Sword](#ghostly-sword)
-7. [Goat](#goat)
-8. [Golden Floating Broom](#golden-floating-broom)
-9. [Minitaur](#minitaur)
-10. [Moose](#moose)
-11. [Octopus](#octopus)
-12. [Parrot](#parrot)
-13. [Pet Rock](#pet-rock)
-14. [Raven](#raven)
-15. [Spellbook](#spellbook)
+1. [Introduction](#Introduction)
+2. [Chimera Dragon](#chimera-dragon)
+3. [Corgi](#corgi)
+4. [Digipet](#digipet)
+5. [Dolphin](#dolphin)
+6. [Ghostly Shield](#ghostly-shield)
+7. [Ghostly Sword](#ghostly-sword)
+8. [Goat](#goat)
+9. [Golden Floating Broom](#golden-floating-broom)
+10. [Minitaur](#minitaur)
+11. [Moose](#moose)
+12. [Octopus](#octopus)
+13. [Parrot](#parrot)
+14. [Pet Rock](#pet-rock)
+15. [Raven](#raven)
+16. [Spellbook](#spellbook)
 
 ---
+## Introduction
+This is a dangerous World, take a pet with you. 
+
+Before you figure out how to get a pet you might want to know what you can do with them. You can use pets for different purposes. The most used purpose is to assist the player in a fight, next one is gathering a lot of equipment, gold or salvage materials for your guild. Pets, that have a 0% chance to join combat are most likely to help you get items, gold and guild-ressources. Not every fighting pet has a 100% chance to join you in battle, so dont worry if it does not show up on your first battle log after getting the pet.
+
+Every pet has a variable amount of equipment-slots, where one of them is the pet's soul, which is the only item that is not changable. Next to that every Pet has a number of feats that you can upgrade for gold. This can be for example to enhance the maximum level of the pet, its chance to join combat on your side or the time it takes the pet to find and item for you. Items are stored in its own inventory. You can switch items from one pet to anothers pet's inventory. 
+
+Unlocking a pet can require you to achieve different tasks in the game, mostly reach some statistics or achievements, kill boss monsters and find collectible in the world. If you are about to ascend, dont forget that you will loose all collectibles and might need to gather them again for the pet you try to unlock. 
+
+The last thing are pet classes. Once you become professional in a class, you can teach your pets to be this class. To do so, you have to change your own class 5 times towards that class.
+
+Following is a list of all pets in the game, their attributes and how to get them
 
 ## Chimera Dragon
 
